@@ -12,8 +12,8 @@ html {
 body {
 	--color-text: #000;
 	--color-bg: #fff;
-	--color-link: #5a4fcf;
-	--color-link-hover: #00a693;
+	--color-link: #00a693;
+	--color-link-hover: #000;
 	--color-info: #000;
 	--color-grid: #f3f3f3;
 	--color-slide-alt: #fff;
