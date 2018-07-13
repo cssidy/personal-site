@@ -18,7 +18,7 @@ body {
 	--color-grid: #f3f3f3;
 	--color-slide-alt: #fff;
 	--color-slide-text-bg: #00a693;
-	font-family: 'Average Sans', serif;
+	font-family: 'Average Sans', sans-serif;
 	/* font-family: Didot, "Didot LT STD", "Bodoni MT", "ltc-bodoni-175", 
 	"Hoefler Text", Garamond, "Times New Roman", serif; */
 	min-height: 100vh;
@@ -29,6 +29,10 @@ body {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	padding-top: 5rem;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: 'Average', serif;
 }
 
 /* Page Loader */
