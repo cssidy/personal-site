@@ -192,10 +192,6 @@ main {
 	opacity: 1;
 }
 
-.slide--current.slide--visible .slide__info, .slide--current.slide--visible .slide__category {
-	color: #00a693;
-}
-
 .slide--current.slide--visible .slide__explore {
 	pointer-events: auto;
 }
