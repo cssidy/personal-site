@@ -1,32 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Cassidy Brooke</title>
+---
+layout: layout
+---
 
-    <style>
-        body {
-            height: 100%;
-            margin: 1em;
-        }
-
-        header {
-            background: mediumseagreen;
-            padding: 1em;
-            color: #fff;
-            height: 100%;
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
-<header>
-    <nav></nav>
-    <section>
-        <h1>Hello, I'm Cassidy, a web developer out to master my craft.</h1>
-        <h2>This website is under construction.</h2>
-    </section>
-</header>
-
-</body>
-</html>
+<div class="content">
+  <h1>Hello!</h1>
+  <div class="related">
+    <ul>
+      {% for post in site.posts %}
+      <li>
+	<span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
