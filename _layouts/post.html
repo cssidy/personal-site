@@ -3,6 +3,9 @@ layout: layout
 ---
 
 <div class="post">
+    
+	<span>{{ post.date | date: "%B %e, %Y" }}</span>
+     
     <h1>{{ post.title }}</h1>
     {{ content }}
 </div>
