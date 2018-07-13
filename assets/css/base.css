@@ -423,7 +423,7 @@ main {
 		margin: 0.5rem 1rem;
 	}
 	.slide__number::before {
-		content: '#';
+		/* content: '#'; */
 	}
 	.slide--current .slide__title-wrap {
 		display: flex;
