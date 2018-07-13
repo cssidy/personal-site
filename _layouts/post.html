@@ -2,14 +2,12 @@
 layout: layout
 ---
 
+
+<a href="/writings.html"><img src="../assets/icons/left-arrow.svg" class="left_arrow" alt="Return"><span> Return</span></a>
+
+
 <div class="post">
-    <a class="" href="" title="Return">
-        <svg class="icon icon--drop">
-            <use xlink:href="#icon-drop"></use>
-        </svg>
-    </a>
-    <a href="/writings.html"><img src="../assets/icons/left-arrow.svg" class="left_arrow" alt="Return"><span> Return</span></a>
-    <p>{{ page.date | date: "%B %e, %Y" }}</p>
     <h1>{{ page.title }}</h1>
+    <p>{{ page.date | date: "%B %e, %Y" }}</p>
     {{ content }}
 </div>
