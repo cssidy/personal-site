@@ -128,6 +128,10 @@ ul li {
 	list-style: square;
 }
 
+.post {
+	padding: 1em;
+}
+
 /* Header */
 .codrops-header {
 	position: relative;
