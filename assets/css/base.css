@@ -107,6 +107,10 @@ a:focus {
 	fill: currentColor;
 }
 
+.left_arrow {
+	width: 30px;
+}
+
 main {
 	position: relative;
 	width: 100%;
