@@ -124,6 +124,10 @@ main {
 	text-align: center;
 }
 
+ul li {
+	list-style: square;
+}
+
 /* Header */
 .codrops-header {
 	position: relative;
