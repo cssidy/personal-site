@@ -111,7 +111,7 @@ a:focus {
 	width: 30px !important;
 }
 
-landing-page {
+.landing-page {
 	position: relative;
 	width: 100%;
 }
@@ -125,7 +125,6 @@ ul li {
 }
 
 
-
 /* WRITINGS */
 
 .writing-list {
@@ -136,6 +135,7 @@ ul li {
     border-left: 3px solid #00a693;
     padding: 3rem 1rem 3rem 3.8rem;
 }
+
 
 .post {
 	width: 100%;
@@ -170,21 +170,22 @@ ul li {
 
 .post p {
 	margin: 0 0 1em;
-	font-size: 110%; }
+	font-size: 110%;
+}
 
 .post h2 + p {
 	margin-top: 2.5rem;
 	padding-top: 1.4rem;
-	border-top: 1px solid black; }
+	border-top: 1px solid black;
+}
 
 .post a {
-	color: #00a693; }
+	color: #00a693;
+}
 
 .post img {
-	width: 100%; }
-/*# sourceMappingURL=03-006.css.map */
-
-
+	width: 100%;
+}
 
 
 
