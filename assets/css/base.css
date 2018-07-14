@@ -136,23 +136,14 @@ ul li {
 }
 
 .gallery ul {
-    padding: 0; }
+    padding: 0;
+}
 
 .gallery li {
     list-style-type: none;
-    font-weight: bold;
     font-size: 4rem;
-    position: relative; }
-
-.gallery li:focus {
-    border: 10px solid blue; }
-
-.gallery span {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    color: #fff;
-    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4); }
+    position: relative;
+}
 
 .gallery ul {
     /* autoprefixer: off */
@@ -161,29 +152,18 @@ ul li {
     grid-auto-rows: 200px;
     grid-auto-flow: dense;
     grid-gap: 1em;
-    margin: 1em; }
-
-.gallery li.highlight-box {
-    grid-row: span 2;
-    grid-column: span 2; }
-
-.gallery li.highlight-tall {
-    grid-row: span 2; }
-
-.gallery li.highlight-wide {
-    grid-column: span 2; }
+    margin: 1em;
+}
 
 .gallery img {
     display: block;
     -o-object-fit: cover;
     object-fit: cover;
     height: 100%;
-    border: 1px solid black;
-    -webkit-box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.5);
-    box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.5); }
+}
 
 .warning {
-    color: red;
+    color: crimson;
     font-size: 200%; }
 
 @supports (display: grid) {
