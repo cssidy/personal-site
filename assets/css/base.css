@@ -129,11 +129,11 @@ ul li {
 
 
 .post {
-	width: 60%;
-	max-width: 52ch;
+	width: 100%;
+	max-width: 100ch;
 	margin: 0 auto;
 	font-family: 'Average Sans', serif;
-	border-left: 5px solid #00a693;
+	border-left: 3px solid #00a693;
 	padding: 3rem 1rem 1rem 3.8rem;
 }
 
@@ -148,6 +148,7 @@ ul li {
 	margin: 1.5rem 0 0 -3.8rem;
 	font-size: 1.8em;
 	background: #00a693;
+    color: #fff;
 	padding: 8px 0;
     font-family: 'Average', serif;
 }
