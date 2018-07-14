@@ -212,8 +212,7 @@ ul li {
     max-width: 100ch;
     margin: 0 auto;
     font-family: 'Average Sans', serif;
-    border-left: 3px solid #00a693;
-    padding: 3rem 1rem 3rem 3.8rem;
+    padding: 1rem 0 3rem 0;
 }
 
 .writing-list h1 {
