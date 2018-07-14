@@ -142,7 +142,6 @@ ul li {
 }
 
 .writing-list li {
-    margin: 0 0 1em;
     font-size: 110%;
 }
 
@@ -425,7 +424,7 @@ ul li {
 		color: var(--color-slide-alt);
 	}
 	.slide::after {
-		content: '+';
+		/* content: '+'; */
 		position: absolute;
 		left: 0;
 		color: #000;
