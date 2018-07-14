@@ -134,6 +134,16 @@ ul li {
     padding: 1rem 0 3rem 0;
 }
 
+.grid li {
+    opacity: 0;
+}
+
+.grid li.shown,
+.no-js .grid li,
+.no-cssanimations .grid li {
+    opacity: 1;
+}
+
 .gallery h1 {
     margin: 0 0 1rem -3rem;
     font-size: 4em;
