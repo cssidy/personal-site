@@ -133,6 +133,11 @@ ul li {
     font-family: 'Average Sans', serif;
 }
 
+.gallery h1 {
+    margin: 0 0 1rem -3rem;
+    font-size: 4em;
+}
+
 .gallery ul {
     padding: 0;
 }
@@ -150,7 +155,6 @@ ul li {
     grid-auto-rows: 200px;
     grid-auto-flow: dense;
     grid-gap: 1em;
-    margin: 1em;
 }
 
 .gallery img {
@@ -158,6 +162,7 @@ ul li {
     -o-object-fit: cover;
     object-fit: cover;
     height: 100%;
+    width: 100%;
 }
 
 .warning {
