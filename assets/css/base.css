@@ -131,6 +131,7 @@ ul li {
     max-width: 100ch;
     margin: 0 auto;
     font-family: 'Average Sans', serif;
+    padding: 1rem 0;
 }
 
 .gallery h1 {
