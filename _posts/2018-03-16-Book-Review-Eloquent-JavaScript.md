@@ -7,6 +7,8 @@ title: Book Review - Eloquent JavaScript
 
 I recently finished [Eloquent JavaScript](https://eloquentjavascript.net/) by Marijn Haverbeke. Eloquent JavaScript is considered one of the educational pillars of learning the JavaScript language, and I've heard great reviews of it from fellow programmers. So I thought it was worth trying.
 
+## Completion
+
 I did every exercise in the book, and overall, I think Haverbeke provides a good introduction to the language. However, I did not enjoy his teaching style. 
 
 I felt that that in the beginning of the book he was more thorough and made a greater effort to be engaging. His explanations on fundamental programming concepts are peppered 
