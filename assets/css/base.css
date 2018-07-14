@@ -126,7 +126,16 @@ ul li {
 
 
 
+/* WRITINGS */
 
+.writing-list {
+    width: 100%;
+    max-width: 100ch;
+    margin: 0 auto;
+    font-family: 'Average Sans', serif;
+    border-left: 3px solid #00a693;
+    padding: 3rem 1rem 3rem 3.8rem;
+}
 
 .post {
 	width: 100%;
@@ -174,6 +183,7 @@ ul li {
 .post img {
 	width: 100%; }
 /*# sourceMappingURL=03-006.css.map */
+
 
 
 
