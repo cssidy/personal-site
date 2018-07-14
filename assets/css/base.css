@@ -136,6 +136,16 @@ ul li {
     padding: 3rem 1rem 3rem 3.8rem;
 }
 
+.writing-list h1 {
+    margin: 0 0 1rem -3rem;
+    font-size: 4em;
+}
+
+.writing-list p {
+    margin: 0 0 1em;
+    font-size: 110%;
+}
+
 
 .post {
 	width: 100%;
