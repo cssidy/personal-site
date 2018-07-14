@@ -108,7 +108,7 @@ a:focus {
 }
 
 .left_arrow {
-	width: 30px;
+	width: 30px !important;
 }
 
 landing-page {
@@ -134,7 +134,7 @@ ul li {
 	margin: 0 auto;
 	font-family: 'Average Sans', serif;
 	border-left: 3px solid #00a693;
-	padding: 3rem 1rem 1rem 3.8rem;
+	padding: 3rem 1rem 3rem 3.8rem;
 }
 
 .post h2 {
