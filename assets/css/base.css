@@ -328,7 +328,7 @@ ul li {
 
 @media (max-width: 585px) {
     .codrops-links {
-        justify-content: inherit;
+        justify-content: left;
     }
 
     .info {
