@@ -310,11 +310,11 @@ ul li {
 }
 
 .credentials-col section {
-
+    padding: 0 1rem;
 }
 
 .credentials-col article {
-    border-bottom: 1px solid #e6e6e6;
+    border-top: 1px solid #e6e6e6;
     padding: 1rem 0;
 }
 
@@ -327,6 +327,14 @@ ul li {
 }
 
 @media (max-width: 585px) {
+    .codrops-links {
+        justify-content: inherit;
+    }
+
+    .info {
+        margin: 1rem !important;
+    }
+
     .writing-list, .credentials {
         padding: 3rem 1rem 1rem 1rem !important;
     }
@@ -347,6 +355,14 @@ ul li {
 
     .post h1 {
         font-size: inherit;
+    }
+
+    .credentials-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .credentials-col section {
+        padding: 0;
     }
 }
 
