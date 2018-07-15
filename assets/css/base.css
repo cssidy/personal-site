@@ -121,23 +121,14 @@ ul li {
 }
 
 .page-404 {
-    width: 100%;
-    background: url(/assets/images/favicon.png) repeat;
-}
-
-.page-404 p {
-    width: 100%;
     max-width: 100ch;
     margin: 0 auto;
     text-align: center;
     font-size: 1.8em;
-    background: #00a693;
-    color: #fff;
-    padding: 8px 0;
 }
 
-.page-404 a {
-    color: #fff;
+.page-404 p {
+    background: #00a693;
 }
 
 /* GALLERIES */
