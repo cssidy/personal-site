@@ -289,6 +289,31 @@ ul li {
 	width: 100%;
 }
 
+.credentials {
+    width: 100%;
+    max-width: 100ch;
+    margin: 0 auto;
+    font-family: 'Average Sans', serif;
+    padding: 3rem 1rem 3rem 3.8rem;
+    position: relative;
+}
+
+.credentials-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 7px;
+    background-color: #fff;
+}
+
+.credentials-item {
+    background-color: #fff;
+}
+
+
+
+
+
+
 @media (max-width: 1112px) {
     .gallery h1, .writing-list h1 {
         margin: 0 0 1rem 0 !important;
@@ -296,7 +321,7 @@ ul li {
 }
 
 @media (max-width: 585px) {
-    .writing-list {
+    .writing-list, .credentials {
         padding: 3rem 1rem 1rem 1rem !important;
     }
 
@@ -318,6 +343,7 @@ ul li {
         font-size: inherit;
     }
 }
+
 
 
 
