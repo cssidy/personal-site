@@ -116,9 +116,6 @@ a:focus {
 	width: 100%;
 }
 
-.content {
-}
-
 ul li {
 	list-style: square;
 }
@@ -168,6 +165,11 @@ ul li {
     max-width: 100%;
 }
 
+
+
+
+
+
 .warning {
     color: crimson;
     font-size: 200%; }
@@ -194,11 +196,7 @@ ul li {
     100% { -webkit-transform: translateY(0); transform: translateY(0); opacity: 1; }
 }
 
-@media (max-width: 1112px) {
-    .gallery h1, .writing-list h1 {
-        margin: 0 0 1rem 0 !important;
-    }
-}
+
 
 
 /* WRITINGS */
@@ -290,6 +288,39 @@ ul li {
 .post img {
 	width: 100%;
 }
+
+@media (max-width: 1112px) {
+    .gallery h1, .writing-list h1 {
+        margin: 0 0 1rem 0 !important;
+    }
+}
+
+@media (max-width: 585px) {
+    .writing-list {
+        padding: 3rem 1rem 1rem 1rem !important;
+    }
+
+    .writing-list span {
+        position: initial;
+        right: auto;
+        padding: 0;
+    }
+
+    .content, .credentials {
+        padding: 1rem;
+    }
+
+    .gallery {
+        padding: 1rem 1rem 3rem 1rem;
+    }
+
+    .post h1 {
+        font-size: inherit;
+    }
+}
+
+
+
 
 
 
