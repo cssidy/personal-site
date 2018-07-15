@@ -124,11 +124,10 @@ ul li {
     max-width: 100ch;
     margin: 0 auto;
     text-align: center;
-    font-size: 1.8em;
+    padding: 10rem 1rem;
 }
 
 .page-404 p {
-    background: #00a693;
 }
 
 /* GALLERIES */
