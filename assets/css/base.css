@@ -272,7 +272,7 @@ ul li {
 .post h2 + p {
 	margin-top: 2.5rem;
 	padding-top: 1.4rem;
-	border-top: 1px solid black;
+    border-top: 1px solid #e6e6e6;
 }
 
 .post a {
