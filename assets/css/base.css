@@ -350,12 +350,14 @@ ul li {
     -webkit-hyphens: manual;
     -ms-hyphens: manual;
     hyphens: manual;
+
 }
 
 
 @media (max-width: 1112px) {
     .gallery h1, .writing-list h1, .credentials h1 {
         margin: 0 0 1rem 0 !important;
+        font-size: 3em !important;
     }
 }
 
