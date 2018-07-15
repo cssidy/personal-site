@@ -205,7 +205,12 @@ ul li {
     max-width: 100ch;
     margin: 0 auto;
     font-family: 'Average Sans', serif;
-    padding: 1rem 0 3rem 0;
+    padding: 3rem 1rem 3rem 3.8rem;
+    position: relative;
+}
+
+.writing-list span {
+    right: 0;
 }
 
 .writing-list h1 {
@@ -215,6 +220,9 @@ ul li {
 
 .writing-list li {
     font-size: 110%;
+    border-bottom: 3px solid #00a693;
+    border-left: 3px solid #00a693;
+    padding: 1rem;
 }
 
 
