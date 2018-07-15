@@ -212,6 +212,7 @@ ul li {
 
 .writing-list span {
     right: 0;
+    position: absolute;
 }
 
 .writing-list h1 {
