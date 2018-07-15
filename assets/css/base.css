@@ -285,7 +285,7 @@ ul li {
 	color: #00a693;
 }
 
-.post img {
+.post img, .credentials img {
 	width: 100%;
 }
 
@@ -305,12 +305,18 @@ ul li {
     background-color: #fff;
 }
 
-.credentials-item {
-    background-color: #fff;
+.credentials-col{
+    padding: 1rem 0;
 }
 
+.credentials-col section {
 
+}
 
+.credentials-col article {
+    border-bottom: 1px solid #e6e6e6;
+    padding: 1rem 0;
+}
 
 
 
