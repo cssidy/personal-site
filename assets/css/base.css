@@ -318,6 +318,20 @@ ul li {
     padding: 1rem 0;
 }
 
+.credentials h1 {
+    margin: 0 0 1rem -3rem;
+    font-size: 4em;
+}
+
+.credentials h2 {
+    margin: 0 0 1rem 0;
+}
+
+.cred-date, .cred-location {
+    font-size: 80%;
+    margin-bottom: .5rem;
+}
+
 
 
 @media (max-width: 1112px) {
