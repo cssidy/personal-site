@@ -206,13 +206,17 @@ ul li {
     margin: 0 auto;
     font-family: 'Average Sans', serif;
     padding: 3rem 1rem 3rem 3.8rem;
-    border-left: 3px solid #00a693;
     position: relative;
 }
 
 .writing-list span {
     right: 0;
+    font-size: 80%;
     position: absolute;
+}
+
+.writing-list a {
+    font-size: 110%;
 }
 
 .writing-list h1 {
@@ -228,7 +232,7 @@ ul li {
 .writing-list li {
     font-size: 110%;
     border-bottom: 1px solid #e6e6e6;
-    padding: 1rem;
+    padding: 1rem 0;
     list-style: none;
 }
 
