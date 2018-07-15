@@ -6,7 +6,7 @@ title: Surviving the Open Office
 ---
 
 I've worked in many open offices. They're touted as the 21st century's interior design solution to 
-increased employee communication, collaboration, happiness, and ultimately efficiency. But which has instead 
+increased employee communication, collaboration, happiness, and ultimately efficiency. But, they have instead 
 become one of the most dreaded office configurations among workers, possibly even less popular than the cubicle.
 
 ![Open office hopes, starts out sweet, quickly turns sour...]({{ "/assets/images/writings/open-office.jpg" | absolute_url }}) 
