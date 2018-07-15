@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-date: 2018-03-15
+date: 2018-03-16
 title: Book Review - Eloquent JavaScript
 ---
 
