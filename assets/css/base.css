@@ -328,7 +328,7 @@ ul li {
     font-size: 1.8em;
     background: #00a693;
     color: #fff;
-    padding: 8px 0;
+    padding: 8px;
 }
 
 .cred-date, .cred-location {
