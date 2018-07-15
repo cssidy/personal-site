@@ -117,7 +117,6 @@ a:focus {
 }
 
 .content {
-	text-align: center;
 }
 
 ul li {
@@ -195,7 +194,11 @@ ul li {
     100% { -webkit-transform: translateY(0); transform: translateY(0); opacity: 1; }
 }
 
-
+@media (max-width: 1112px) {
+    .gallery h1, .writing-list h1 {
+        margin: 0 0 1rem 0 !important;
+    }
+}
 
 
 /* WRITINGS */
@@ -213,6 +216,7 @@ ul li {
     right: 0;
     font-size: 80%;
     position: absolute;
+    padding: 0 1rem;
 }
 
 .writing-list a {
