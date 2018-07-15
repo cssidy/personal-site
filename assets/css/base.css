@@ -310,7 +310,7 @@ ul li {
 }
 
 .credentials-col section {
-    padding: 0 1rem;
+    padding: 0 1rem 1rem 1rem;
 }
 
 .credentials-col article {
@@ -325,6 +325,10 @@ ul li {
 
 .credentials h2 {
     margin: 0 0 1rem 0;
+    font-size: 1.8em;
+    background: #00a693;
+    color: #fff;
+    padding: 8px 0;
 }
 
 .cred-date, .cred-location {
