@@ -336,7 +336,11 @@ ul li {
     margin-bottom: .5rem;
 }
 
-
+.gallery h1, .writing-list h1, .credentials h1 {
+    -webkit-hyphens: manual;
+    -ms-hyphens: manual;
+    hyphens: manual;
+}
 
 
 @media (max-width: 1112px) {
