@@ -219,11 +219,16 @@ ul li {
     font-size: 4em;
 }
 
+.writing-list ul {
+    padding: 0.5rem;
+    margin: 0;
+}
+
 .writing-list li {
     font-size: 110%;
     border-bottom: 1px solid #e6e6e6;
     padding: 1rem;
-    
+    list-style: none;
 }
 
 
