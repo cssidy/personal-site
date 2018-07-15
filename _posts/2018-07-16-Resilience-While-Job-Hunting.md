@@ -57,7 +57,7 @@ scenery always helped my mood. Break up the monotony. Here are a handful of inex
 - Call a relative
 - Build a snowman
 
-## Creature Comforts
+## Rejuvenate
 On a particularly disappointing or exhausting day, I’d carve out time for myself in the evening for 
 rejuvenation. I like to make a nice, healthy dinner with lots of fresh herbs, veggies and a 
 good slab of protein. Or light a candle and take a bath with an oatmeal essential oil bath bomb. Or stretch on 
