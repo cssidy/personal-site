@@ -338,6 +338,7 @@ ul li {
 
 
 
+
 @media (max-width: 1112px) {
     .gallery h1, .writing-list h1 {
         margin: 0 0 1rem 0 !important;
@@ -424,7 +425,7 @@ ul li {
 .codrops-links {
 	position: relative;
 	display: flex;
-	justify-content: center;
+	justify-content: left;
 	margin: 2rem auto 0 0.25rem;
 	text-align: center;
 	white-space: nowrap;
