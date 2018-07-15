@@ -16,8 +16,6 @@ with a snarky, sarcastic sense of humor. This is amusing at some points, but com
 I have to re-read passages, like I _should_ understand it, but don’t. But that’s not surprising, many of the male 
 JavaScript developers that I know carry this intimidating, snarky aura about them.
 
-![Laptop]({{ "/assets/images/writings/laptop.jpg" | absolute_url }})
-
 Al Sweigart’s teaching style is, in my opinion, more engaging and methodical, with blocks building on blocks and each topic full explored. His tone is silly and fun, and accessible to all audiences. Perhaps he’s a more gentle teacher because of the many programming books he’s written for children.
 
 ## Overall
