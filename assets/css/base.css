@@ -164,9 +164,10 @@ ul li {
     display: block;
     float: left;
     padding: 7px;
-    */
     width: 33%;
+    */
     opacity: 0;
+    list-style: none;
 }
 
 .grid li.shown,
@@ -177,10 +178,11 @@ ul li {
 
 .grid li a,
 .grid li img, .grid li video {
-    outline: none;
-    border: none;
-    display: block;
     max-width: 100%;
+}
+
+.grid li video {
+    background-color: #000;
 }
 
 
