@@ -175,7 +175,17 @@ ul li {
     animation: fadein 2s;
 }
 
+.grid li img:hover {
+	transform: matrix(1.1, 0, 0, 1.1, 0, 0);
+}
 
+.grid li span {
+	position: absolute;
+	bottom: 0;
+	background: #f4f4f4;
+	padding: 8px;
+	width: 100%;
+}
 
 
 
