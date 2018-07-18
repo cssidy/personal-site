@@ -45,7 +45,7 @@ the kitchen area, or I'll go outside and find a picnic table or park bench.)
 - Co-workers that have clunking TMJ jaws that choose to eat peanut-butter bagels at their desk
 - Co-workers who slurp, suck, smack and gulp soup every day at their desk
 - Co-workers who eat snacks in loud, crinkly containers, like Cheez-Its, at their desk all day long
-- Co-workers who leave dirty plates, bowls and mugs at their desk that attract gnats
+- Co-workers who leave dirty plates, bowls and mugs for weeks at their desk that attract gnats
 - Co-workers who anxiously shake their legs which rattles and vibrates my desk
 - Co-workers who have restless leg syndrome who can't help but shake their legs all day long
 - Co-workers who come in to work sick, hacking and snuffling all day long and risking infecting others
@@ -63,9 +63,9 @@ while they 'rock out'?)
 
 Unfortunately, I have only found a couple reliable solutions to all these problems.
 
-- Putting on headphones and listening to music when co-workers are doing annoying things
-- Leaving the office during lunch
-- Subtley encouraging others to not eat at their desk
+- Put on headphones and listening to music when co-workers are doing annoying things
+- Leave the office during lunch
+- Encouraging (subtley) others to not eat at their desk
 
 The other solutions I've conjured up all require confrontation with the offending co-worker. There's a 
 risk that the co-worker will take your feedback poorly. It requires a careful, tactful approach or else you could
