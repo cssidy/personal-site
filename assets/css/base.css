@@ -149,12 +149,15 @@ ul li {
 .grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: 200px;
     grid-gap: 7px;
     background-color: #fff;
 }
 
 .grid li {
+    list-style: none;
+}
+
+.grid li img, .grid li video {
     width: 100%;
 }
 
