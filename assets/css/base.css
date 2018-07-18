@@ -285,10 +285,9 @@ ul li {
 
 .credentials h2 {
     font-size: 1.4em;
-    background: rgb(0,166,147);
-    background: linear-gradient(90deg, rgba(0,166,147,1) 0%, rgba(0,255,194,1) 100%);
     color: #fff;
     padding: 8px;
+    background-color: #00a693;
     font-family: 'Average', serif;
     animation: fadein 2s;
     margin-top: 0;
@@ -296,8 +295,16 @@ ul li {
 
 
 @keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
+    from {
+        opacity: 0;
+        margin-left: 100%;
+        width: 300%;
+    }
+    to   {
+        opacity: 1;
+        margin-left: 0%;
+        width: 100%;
+    }
 }
 
 
