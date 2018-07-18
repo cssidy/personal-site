@@ -154,18 +154,23 @@ ul li {
     grid-auto-flow: dense;
     grid-gap: 7px;
     background-color: #fff;
-    margin: 0;
+    margin: 0 0 4em 0;
     padding: 0;
 }
 
 .grid li {
     list-style: none;
+    position: relative;
 }
 
 .grid li img, .grid li video {
     width: 100%;
     height: 100%;
+    display: block;
+    object-fit: cover;
+    background-color: #f4f4f4;
 }
+
 
 
 
