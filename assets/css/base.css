@@ -280,7 +280,7 @@ ul li {
 .credentials-grid article {
     border-top: 1px solid #e6e6e6;
     margin: 0 0 1rem 0;
-    padding: 1em 0;
+    padding: 1.5em 0;
 }
 
 .credentials h2 {
@@ -307,9 +307,11 @@ ul li {
     }
 }
 
+.credentials h3 {
+    margin: 1em 0;
+}
 
-
-.credentials h3, h4 {
+.credentials h4 {
     margin: 0;
 }
 
