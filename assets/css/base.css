@@ -619,7 +619,7 @@ ul li {
 		color: var(--color-slide-alt);
 	}
 	.slide::after {
-		/* content: '+'; */
+		content: '+';
 		position: absolute;
 		left: 0;
 		color: #000;
