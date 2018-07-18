@@ -280,15 +280,18 @@ ul li {
 .credentials-grid article {
     border-top: 1px solid #e6e6e6;
     margin: 0 0 1rem 0;
+    padding: 1em 0;
 }
 
 .credentials h2 {
     font-size: 1.4em;
-    background: #00a693;
+    background: rgb(0,166,147);
+    background: linear-gradient(90deg, rgba(0,166,147,1) 0%, rgba(0,255,194,1) 100%);
     color: #fff;
     padding: 8px;
     font-family: 'Average', serif;
     animation: fadein 2s;
+    margin-top: 0;
 }
 
 
