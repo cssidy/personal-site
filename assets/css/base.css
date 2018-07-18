@@ -138,6 +138,7 @@ ul li {
     margin: 0 auto;
     font-family: 'Average Sans', serif;
     padding: 1rem 0 3rem 0;
+
 }
 
 .gallery h1 {
@@ -148,7 +149,9 @@ ul li {
 
 .grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-auto-rows: 400px;
+    grid-auto-flow: dense;
     grid-gap: 7px;
     background-color: #fff;
     margin: 0;
@@ -161,6 +164,7 @@ ul li {
 
 .grid li img, .grid li video {
     width: 100%;
+    height: 100%;
 }
 
 
