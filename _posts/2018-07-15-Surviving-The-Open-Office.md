@@ -32,6 +32,11 @@ concentration.
 These are all situations that I have encountered in an open office which distract me from my work:
 
 - Co-workers who clip their nails while at their desk
+- Co-workers who announce every frustration/victory with a grunt or "Yaaasss!"
+- Co-workers who hum to themselves
+- Co-workers who anxiously click their pens
+- Co-workers who ask questions of fellow devs without doing a basic Google search
+- Co-workers who slam their water bottle down every time they use it
 - Co-workers who eat at their desk
 - Co-workers who bring stinky food back to their desk (I have been a culprit of this in the past. I realized 
 this is a disruptive habit while at my first open office job. One afternoon I microwaved a just-add-water Thai noodle 
@@ -45,14 +50,14 @@ the kitchen area, or I'll go outside and find a picnic table or park bench.)
 - Co-workers who have restless leg syndrome who can't help but shake their legs all day long
 - Co-workers who come in to work sick, hacking and snuffling all day long and risking infecting others
 - Co-workers who breath heavily through their mouth
-- Co-workers who have loud conversations at the desks next to me
+- Co-workers who have loud conversations at their desks
 - Co-workers who tap along to the music in their headphones (This one puzzles me, isn’t the reason why they're
-wearing headphones is to keep their music to themselves? Now they’re going to make me put on headphones to drown them out
+wearing headphones to keep their music to themselves? Now they’re going to make me put on headphones to drown them out
 while they 'rock out'?)
-- Co-workers who leave their headphones on their desk, blasting loud, for the rest of us to hear while they are elsewhere
-- Co-workers who do not silence their phone, so the rest of us can hear all their text pings
-- Co-workers who leave their phone on their desk, un-silenced and with a loud ringtone, and get frequent calls
-- Co-workers who slam their water down every time they use it
+- Co-workers who leave their headphones on their desk, loudly blasting, while they are elsewhere
+- Co-workers who do not silence the texting on their phone
+- Co-workers who leave their phone on their desk, un-silenced, and get frequent calls
+
 
 ## Solutions
 
