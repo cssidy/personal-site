@@ -151,6 +151,8 @@ ul li {
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 7px;
     background-color: #fff;
+    margin: 0;
+    padding: 0;
 }
 
 .grid li {
