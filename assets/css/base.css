@@ -127,12 +127,14 @@ ul li {
     padding: 10rem 1rem;
 }
 
-.page-404 p {
-}
 
-/* GALLERIES */
 
-.gallery, .writing-list {
+
+
+
+
+
+.gallery, .writing-list, .credentials {
     width: 100%;
     max-width: 100ch;
     margin: 0 auto;
@@ -261,14 +263,7 @@ ul li {
 	width: 100%;
 }
 
-.credentials {
-    width: 100%;
-    max-width: 100ch;
-    margin: 0 auto;
-    font-family: 'Average Sans', serif;
-    padding: 3rem 1rem 3rem 3.8rem;
-    position: relative;
-}
+
 
 .credentials-grid {
     display: grid;
