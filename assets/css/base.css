@@ -344,10 +344,6 @@ ul li {
         justify-content: left;
     }
 
-    .info {
-        margin: 1rem !important;
-    }
-
     .writing-list, .credentials {
         padding: 3rem 1rem 1rem 1rem !important;
     }
@@ -377,6 +373,10 @@ ul li {
     .credentials-col section {
         padding: 0;
     }
+
+    .github {
+        margin: 1em;
+    }
 }
 
 
@@ -404,7 +404,7 @@ ul li {
 .info {
 	display: block;
 	max-width: 260px;
-	margin: 1rem auto;
+	margin: 1em;
 	color: var(--color-info);
 }
 
