@@ -282,10 +282,27 @@ ul li {
     background-color: #f4f4f4;
 }
 
+.credentials h2 {
+    -webkit-writing-mode: sideways-lr;
+    -ms-writing-mode: sideways-lr;
+    writing-mode: sideways-lr;
+    -webkit-writing-mode: vertical-rl;
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+    margin-top: 0;
+}
+
+.credentials h3, h4 {
+    margin: 0;
+}
+
 .cred-date, .cred-location {
     font-size: 80%;
-    margin-bottom: .5rem;
+    display: block;
 }
+
+
+
 
 .gallery h1, .writing-list h1, .credentials h1 {
     -webkit-hyphens: manual;
