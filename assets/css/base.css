@@ -171,7 +171,7 @@ ul li {
     height: 100%;
     display: block;
     object-fit: cover;
-    background: #00a693;
+    background: #f4f4f4;
     animation: fadein 2s;
 }
 
