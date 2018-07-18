@@ -171,7 +171,8 @@ ul li {
     height: 100%;
     display: block;
     object-fit: cover;
-    background-color: #f4f4f4;
+    background: #00a693;
+    animation: fadein 2s;
 }
 
 
@@ -279,18 +280,24 @@ ul li {
 .credentials-grid article {
     border-top: 1px solid #e6e6e6;
     margin: 0 0 1rem 0;
-    background-color: #f4f4f4;
 }
 
 .credentials h2 {
-    -webkit-writing-mode: sideways-lr;
-    -ms-writing-mode: sideways-lr;
-    writing-mode: sideways-lr;
-    -webkit-writing-mode: vertical-rl;
-    -ms-writing-mode: tb-rl;
-    writing-mode: vertical-rl;
-    margin-top: 0;
+    font-size: 1.4em;
+    background: #00a693;
+    color: #fff;
+    padding: 8px;
+    font-family: 'Average', serif;
+    animation: fadein 2s;
 }
+
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+
 
 .credentials h3, h4 {
     margin: 0;
@@ -299,6 +306,7 @@ ul li {
 .cred-date, .cred-location {
     font-size: 80%;
     display: block;
+    text-align: right;
 }
 
 
