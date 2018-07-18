@@ -65,6 +65,7 @@ Unfortunately, I have only found a couple reliable solutions to all these proble
 
 - Putting on headphones and listening to music when co-workers are doing annoying things
 - Leaving the office during lunch
+- Subtley encouraging others to not eat at their desk
 
 The other solutions I've conjured up all require confrontation with the offending co-worker. There's a 
 risk that the co-worker will take your feedback poorly. It requires a careful, tactful approach or else you could
