@@ -147,43 +147,17 @@ ul li {
 
 
 .grid {
-    /*
-    max-width: 69em;
-    list-style: none;
-    margin: 30px auto;
-    padding: 0;
-    */
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 200px;
     grid-gap: 7px;
     background-color: #fff;
 }
 
 .grid li {
-    /*
-    display: block;
-    float: left;
-    padding: 7px;
-    width: 33%;
-    */
-    opacity: 0;
-    list-style: none;
+    width: 100%;
 }
 
-.grid li.shown,
-.no-js .grid li,
-.no-cssanimations .grid li {
-    opacity: 1;
-}
-
-.grid li a,
-.grid li img, .grid li video {
-    max-width: 100%;
-}
-
-.grid li video {
-    background-color: #000;
-}
 
 
 
