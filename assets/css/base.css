@@ -272,15 +272,13 @@ ul li {
     background-color: #fff;
 }
 
+.credentials-grid section {
+    padding: 1em;
+}
+
 .credentials-grid article {
     border-top: 1px solid #e6e6e6;
     padding: 1rem 0;
-}
-
-.credentials h2 {
-    margin: 0 0 1rem 0;
-    font-size: 1.8em;
-    padding: 8px;
 }
 
 .cred-date, .cred-location {
