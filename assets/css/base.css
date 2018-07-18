@@ -164,6 +164,7 @@ ul li {
 .grid li {
     list-style: none;
     position: relative;
+	overflow: hidden;
 }
 
 .grid li img, .grid li video {
@@ -176,7 +177,9 @@ ul li {
 }
 
 .grid li img:hover {
-	transform: matrix(1.1, 0, 0, 1.1, 0, 0);
+	-moz-transform: scale(1.1);
+-webkit-transform: scale(1.1);
+transform: scale(1.1);
 }
 
 .grid li span {
