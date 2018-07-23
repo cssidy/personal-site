@@ -9,15 +9,17 @@ html {
 	background: #fff;
 }
 
+/* persian green #00a693; */
+
 body {
 	--color-text: #000;
 	--color-bg: #fff;
-	--color-link: #00a693;
+	--color-link: #e34234;
 	--color-link-hover: #000;
 	--color-info: #000;
 	--color-grid: #f3f3f3;
 	--color-slide-alt: #fff;
-	--color-slide-text-bg: #00a693;
+	--color-slide-text-bg: #e34234;
 	font-family: 'Average Sans', sans-serif;
 	/* font-family: Didot, "Didot LT STD", "Bodoni MT", "ltc-bodoni-175", 
 	"Hoefler Text", Garamond, "Times New Roman", serif; */
@@ -211,7 +213,7 @@ ul li {
 
 
 .warning {
-    color: crimson;
+    color: #e34234;
     font-size: 200%; }
 
 @supports (display: grid) {
@@ -253,7 +255,7 @@ ul li {
 	max-width: 100ch;
 	margin: 0 auto;
 	font-family: 'Average Sans', serif;
-	border-left: 3px solid #00a693;
+	border-left: 3px solid #e34234;
 	padding: 3rem 1rem 3rem 3.8rem;
 }
 
@@ -267,7 +269,7 @@ ul li {
 	float: left;
 	margin: 1.5rem 0 0 -3.8rem;
 	font-size: 1.4em;
-	background: #00a693;
+	background: #e34234;
     color: #fff;
 	padding: 8px 0;
     font-family: 'Average', serif;
@@ -285,7 +287,7 @@ ul li {
 }
 
 .post a {
-	color: #00a693;
+	color: #e34234;
 }
 
 .post img, .credentials img {
@@ -316,7 +318,7 @@ ul li {
     font-size: 1.4em;
     color: #fff;
     padding: 8px;
-    background-color: #00a693;
+    background-color: #e34234;
     font-family: 'Average', serif;
     animation: slidein 1s;
     margin-top: 0;
