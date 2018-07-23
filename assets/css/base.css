@@ -315,13 +315,11 @@ ul li {
 }
 
 .credentials h2 {
-    font-size: 1.4em;
     color: #fff;
-    padding: 8px;
+    padding: 5px;
     background-color: #e34234;
     font-family: 'Vollkorn', serif;
     animation: slidein 1s;
-    margin-top: 0;
 }
 
 @keyframes fadein {
@@ -424,7 +422,9 @@ ul li {
 }
 
 
+.secret_animate {
 
+}
 
 
 
