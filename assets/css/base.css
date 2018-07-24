@@ -409,12 +409,29 @@ ul li {
     }
 }
 
-
-.secret_animate {
-
+.secret_page {
+	background-color: #e34234;
+	padding: 1em;
 }
 
+.secret_page .left_arrow {
+	color: #fff;
+}
 
+.secret_animate {
+	animation: secretanimate 2s;
+	animation-delay: 2s;
+	animation-iteration-count: 1;
+}
+
+@keyframes secretanimate {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
 
 
 
