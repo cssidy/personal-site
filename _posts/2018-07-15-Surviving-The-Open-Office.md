@@ -9,8 +9,6 @@ I've worked in many open offices. They're touted as the 21st century's interior 
 increased employee communication, collaboration, happiness, and ultimately efficiency. But, they have instead 
 become one of the most dreaded office configurations among workers, possibly even less popular than the cubicle.
 
-![Open office hopes, starts out sweet, quickly turns sour...]({{ "/assets/images/writings/open-office.jpg" | absolute_url }}) 
-
 Open offices _can_ work well for certain job positions. However, in software development I find them to be a
 huge hindrance to the type of work that's expected of me to produce. Despite that, they seem to be all the rage right
 now. Sure, there are phases in software development that require brainstorming and intense socialization, but when that's 
