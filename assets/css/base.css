@@ -421,7 +421,7 @@ ul li {
 .secret_animate {
 	animation: secretanimate 2s;
 	animation-delay: 2s;
-	animation-iteration-count: 1;
+	animation-iteration-count: 3;
 }
 
 @keyframes secretanimate {
