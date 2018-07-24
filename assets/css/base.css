@@ -414,10 +414,6 @@ ul li {
 	padding: 1em;
 }
 
-.secret_page .left_arrow {
-	stroke: #fff;
-}
-
 .secret_animate {
 	animation: secretanimate 2s;
 	animation-delay: 2s;
