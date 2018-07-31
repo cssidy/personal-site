@@ -325,6 +325,8 @@ ul li {
 	line-height: 1;
 	overflow: hidden;
 	font-weight: normal;
+	padding: 0 0.5rem;
+	white-space: nowrap;
 }
 
 @keyframes fadein {
