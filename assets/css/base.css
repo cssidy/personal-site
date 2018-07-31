@@ -417,8 +417,7 @@ ul li {
 
 .secret-grid {
     display: grid;
-grid-template-columns: repeat(6, 14vw);
-grid-template-rows: repeat(10, 14vw) 1fr;
+	grid-template-columns: repeat(13, 1fr);
     grid-gap: 0;
 background: url(/assets/images/2.jpg) no-repeat 50% 50%;;
     background-color: #fff;
