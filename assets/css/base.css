@@ -202,7 +202,8 @@ ul li {
 .grid li span {
 	position: absolute;
 	bottom: 0;
-	background: #f4f4f4;
+	background: #e34234;
+	color: #fff;
 	padding: 8px;
 	width: 100%;
 }
