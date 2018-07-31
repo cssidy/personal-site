@@ -415,6 +415,25 @@ ul li {
     }
 }
 
+.secret-grid {
+    display: grid;
+grid-template-columns: repeat(6, 14vw);
+grid-template-rows: repeat(10, 14vw) 1fr;
+    grid-gap: 0;
+background: url(/assets/images/2.jpg) no-repeat 50% 50%;;
+    background-color: #fff;
+    padding: 0;
+}
+
+.grid section {
+    position: relative;
+    overflow: hidden;
+}
+
+.grid section img {
+	max-height: ;
+}
+
 .secret_page {
 	background-color: #e34234;
 	padding: 1em;
