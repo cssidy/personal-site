@@ -484,7 +484,7 @@ ul li {
 
 .secret-grid section:nth-child(6) {
 	grid-row: 6;
-	grid-column: 6;
+	grid-column: 12;
 	-webkit-animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	animation-delay: 1s;
