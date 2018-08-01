@@ -438,17 +438,13 @@ ul li {
 
 .secret-grid section img {
 	width: 100%;
+	animation: secretanimate 2s;
+	animation-iteration-count: 1;
 }
 
 .secret-grid section:nth-child(1) {
 	grid-row: 1/2;
 	grid-column: 3/4;
-}
-
-.secret_animate {
-	animation: secretanimate 2s;
-	animation-delay: 2s;
-	animation-iteration-count: infinite;
 }
 
 @keyframes secretanimate {
