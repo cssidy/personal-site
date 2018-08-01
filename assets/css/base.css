@@ -418,6 +418,16 @@ ul li {
 	}
 }
 
+
+
+
+.secret-page {
+	background: url(/assets/images/2.jpg) no-repeat;
+	background-position: right top;
+	background-size: cover;
+}
+
+
 .secret-grid {
     display: grid;
 	grid-template-columns: repeat(13, 1fr);
@@ -426,12 +436,6 @@ ul li {
 }
 
 .secret-grid img {
-}
-
-.secret_page {
-	background: url(/assets/images/2.jpg) no-repeat;
-	background-position: right top;
-	background-size: cover;
 }
 
 .secret_animate {
