@@ -432,7 +432,7 @@ ul li {
 	background-position: right bottom;
 	background-size: cover;
 	*/
-	background: #e34234;
+	background: linear-gradient(#e34234, #e34234, #fff, #fff);
 }
 
 .secret-grid {
