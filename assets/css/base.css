@@ -410,6 +410,12 @@ ul li {
     .github {
         margin: 1em 0.5em !important;
     }
+
+	.secret_animate {
+		margin-left: -10px;
+		top: 10px;
+		position: fixed;
+	}
 }
 
 .secret-grid {
