@@ -419,8 +419,11 @@ ul li {
 	}
 }
 
-
-
+.secret_animate {
+	animation: secretanimate 2s;
+	animation-iteration-count: infinite;
+	animation-delay: 2s;
+}
 
 .secret-page {
 	background: url(../images/3.jpg) no-repeat;
