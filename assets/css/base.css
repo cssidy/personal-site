@@ -598,7 +598,7 @@ ul li {
 	}
 	100% {
 		-webkit-transform: translateY(1000);
-		transform: translateY(1000);
+		transform: translateY(10000);
 		opacity: 1;
 	}
 }
@@ -615,7 +615,7 @@ ul li {
 	}
 	100% {
 		-webkit-transform: translateY(1000);
-		transform: translateY(1000);
+		transform: translateY(10000);
 		opacity: 1;
 	}
 }
