@@ -597,7 +597,7 @@ ul li {
 		opacity: 1;
 	}
 	100% {
-		-webkit-transform: translateY(1000);
+		-webkit-transform: translateY(10000);
 		transform: translateY(10000);
 		opacity: 1;
 	}
@@ -614,7 +614,7 @@ ul li {
 		opacity: 1;
 	}
 	100% {
-		-webkit-transform: translateY(1000);
+		-webkit-transform: translateY(10000);
 		transform: translateY(10000);
 		opacity: 1;
 	}
