@@ -427,9 +427,12 @@ ul li {
 }
 
 .secret-page {
+	/*
 	background: url(../images/3.jpg) no-repeat;
 	background-position: right bottom;
 	background-size: cover;
+	*/
+	background: #e34234;
 }
 
 .secret-grid {
