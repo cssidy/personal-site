@@ -437,9 +437,7 @@ ul li {
 
 .secret-grid section img {
 	background: #fff;
-	width: auto;
-	margin: 0;
-	float: left;
+	width: 100%;
 }
 
 .secret-grid:nth-child(1) {
