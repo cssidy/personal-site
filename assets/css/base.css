@@ -431,7 +431,8 @@ ul li {
 
 .secret-grid {
     display: grid;
-	grid-template-columns: repeat(13, 50px);
+	grid-template-columns: repeat(12, 8.3%);
+	grid-template-rows: repeat(12, 8.3%);
     grid-gap: 5px;
 }
 
