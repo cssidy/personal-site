@@ -457,7 +457,6 @@ ul li {
   background: #fff; 
 	-webkit-animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite both;
 	animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite both;
-	animation-delay: 1s;
 	animation-duration: infinite;
 }
 
@@ -485,7 +484,6 @@ ul li {
   background: #fff; 
 	-webkit-animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite both;
 	animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite both;
-	animation-delay: 1s;
 	animation-duration: infinite;
 }
 
@@ -514,7 +512,6 @@ ul li {
   background: #333; 
 	-webkit-animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite both;
 	animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite both;
-	animation-delay: 1s;
 	animation-duration: infinite;
 }
 
@@ -533,7 +530,6 @@ ul li {
   background: #fff; 
 	-webkit-animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite both;
 	animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite both;
-	animation-delay: 1s;
 	animation-duration: infinite;
 }
 
@@ -552,7 +548,6 @@ ul li {
   background: #333; 
 	-webkit-animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite both;
 	animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite both;
-	animation-delay: 1s;
 	animation-duration: infinite;
 }
 
@@ -592,14 +587,12 @@ ul li {
 		opacity: 0;
 	}
 	50% {
-		-webkit-transform: translateY(0);
-		transform: translateY(0);
 		opacity: 1;
 	}
 	100% {
-		-webkit-transform: translateY(10000);
-		transform: translateY(10000);
-		opacity: 1;
+		-webkit-transform: translateY(0);
+		transform: translateY(0);
+		opacity: 0;
 	}
 }
 @keyframes slide-in-top {
@@ -609,14 +602,12 @@ ul li {
 		opacity: 0;
 	}
 	50% {
-		-webkit-transform: translateY(0);
-		transform: translateY(0);
 		opacity: 1;
 	}
 	100% {
-		-webkit-transform: translateY(10000);
-		transform: translateY(10000);
-		opacity: 1;
+		-webkit-transform: translateY(0);
+		transform: translateY(0);
+		opacity: 0;
 	}
 }
 
