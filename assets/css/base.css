@@ -422,7 +422,6 @@ ul li {
     display: grid;
 	grid-template-columns: repeat(13, 1fr);
     grid-gap: 0;
-	background: url(/assets/images/2.jpg) no-repeat 50% 50%;
     padding: 0;
 }
 
@@ -430,8 +429,9 @@ ul li {
 }
 
 .secret_page {
-	background-color: #e34234;
-	padding: 1em;
+	background: url(/assets/images/2.jpg) no-repeat;
+	background-position: right top;
+	background-size: cover;
 }
 
 .secret_animate {
