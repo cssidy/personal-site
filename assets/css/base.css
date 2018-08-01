@@ -457,6 +457,7 @@ ul li {
 	grid-column: 4/5;
 	-webkit-animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	animation-delay: 1s;
 }
 
 .secret-grid section:nth-child(3) {
@@ -471,6 +472,7 @@ ul li {
 	grid-column: 7;
 	-webkit-animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	animation-delay: 1s;
 }
 
 .secret-grid section:nth-child(5) {
@@ -485,6 +487,7 @@ ul li {
 	grid-column: 6;
 	-webkit-animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	animation-delay: 1s;
 }
 
 .secret-grid section:nth-child(7) {
@@ -499,6 +502,7 @@ ul li {
 	grid-column: 2;
 	-webkit-animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	animation-delay: 1s;
 }
 
 .secret-grid section:nth-child(9) {
@@ -513,6 +517,7 @@ ul li {
 	grid-column: 2;
 	-webkit-animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	animation-delay: 1s;
 }
 
 @keyframes secretanimate {
