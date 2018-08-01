@@ -351,8 +351,6 @@ ul li {
 }
 
 
-
-
 .gallery h1, .writing-list h1, .credentials h1 {
     -webkit-hyphens: manual;
     -ms-hyphens: manual;
@@ -410,7 +408,7 @@ ul li {
     }
 
     .github {
-        margin: 1em !important;
+        margin: 1em 0.5em !important;
     }
 }
 
@@ -418,18 +416,11 @@ ul li {
     display: grid;
 	grid-template-columns: repeat(13, 1fr);
     grid-gap: 0;
-	background: url(/assets/images/2.jpg) no-repeat 50% 50%;;
-    background-color: #fff;
+	background: url(/assets/images/2.jpg) no-repeat 50% 50%;
     padding: 0;
 }
 
-.grid section {
-    position: relative;
-    overflow: hidden;
-}
-
-.grid section img {
-	max-height: ;
+.secret-grid img {
 }
 
 .secret_page {
@@ -472,7 +463,6 @@ ul li {
 .info {
 	display: block;
 	max-width: 260px;
-	margin: 1em;
 	color: var(--color-info);
 }
 
