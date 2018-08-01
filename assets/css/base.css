@@ -413,8 +413,8 @@ ul li {
 
 	.secret_animate {
 		margin-left: -10px;
-		top: 10px;
-		position: fixed;
+		top: -120px;
+		position: absolute;
 	}
 }
 
