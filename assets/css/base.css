@@ -372,7 +372,7 @@ ul li {
     }
 }
 
-@media (max-width: 585px) {
+@media (max-width: 768px) {
     .codrops-links {
         justify-content: left;
     }
