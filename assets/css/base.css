@@ -457,6 +457,8 @@ ul li {
   background: #fff; 
 	-webkit-animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	animation-delay: 1s;
+	animation-duration: infinite;
 }
 
 .secret-grid b:nth-of-type(2) {
@@ -465,6 +467,7 @@ ul li {
   background: #333; 
 	-webkit-animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	animation-duration: infinite;
 }
 
 .secret-grid b:nth-of-type(3) {
@@ -481,6 +484,8 @@ ul li {
   background: #fff; 
 	-webkit-animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	animation-delay: 1s;
+	animation-duration: infinite;
 }
 
 .secret-grid b:nth-of-type(5) {
@@ -489,6 +494,7 @@ ul li {
   background: #f4f4f4; 
 	-webkit-animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	animation-duration: infinite;
 }
 
 .secret-grid b:nth-of-type(6) {
@@ -497,6 +503,8 @@ ul li {
   background: #333; 
 	-webkit-animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	animation-delay: 1s;
+	animation-duration: infinite;
 }
 
 .secret-grid b:nth-of-type(7) {
@@ -505,6 +513,8 @@ ul li {
   background: #333; 
 	-webkit-animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	animation-delay: 1s;
+	animation-duration: infinite;
 }
 
 .secret-grid b:nth-of-type(8) {
@@ -513,6 +523,7 @@ ul li {
   background: #333; 
 	-webkit-animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	animation-duration: infinite;
 }
 
 .secret-grid b:nth-of-type(9) {
@@ -521,6 +532,8 @@ ul li {
   background: #fff; 
 	-webkit-animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	animation-delay: 1s;
+	animation-duration: infinite;
 }
 
 .secret-grid b:nth-of-type(10) {
@@ -529,6 +542,7 @@ ul li {
   background: #f4f4f4; 
 	-webkit-animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	animation-duration: infinite;
 }
 
 .secret-grid b:nth-of-type(11) {
@@ -537,6 +551,8 @@ ul li {
   background: #333; 
 	-webkit-animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	animation-delay: 1s;
+	animation-duration: infinite;
 }
 
 .secret-grid b:nth-of-type(12) {
@@ -545,6 +561,8 @@ ul li {
   background: #f4f4f4; 
 	-webkit-animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	animation-delay: 1s;
+	animation-duration: infinite;
 }
 
 .secret-grid b:nth-of-type(13) {
@@ -553,6 +571,7 @@ ul li {
   background: #333; 
 	-webkit-animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	animation-duration: infinite;
 }
 
 
