@@ -320,7 +320,6 @@ ul li {
     color: #fff;
     background-color: #e34234;
     font-family: 'Vollkorn', serif;
-	font-size: 2.5vw;
 	line-height: 1;
 	overflow: hidden;
 	font-weight: normal;
@@ -419,7 +418,7 @@ ul li {
     display: grid;
 	grid-template-columns: repeat(13, 1fr);
     grid-gap: 0;
-background: url(/assets/images/2.jpg) no-repeat 50% 50%;;
+	background: url(/assets/images/2.jpg) no-repeat 50% 50%;;
     background-color: #fff;
     padding: 0;
 }
