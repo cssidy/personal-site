@@ -646,6 +646,11 @@ ul li {
     grid-column: 4;
 }
 
+.grid-404 b:nth-of-type(34) {
+    grid-row: 10;
+    grid-column: 1 / span 7;
+}
+
 @keyframes secretanimate {
 	from {
 		opacity: 0;
