@@ -452,7 +452,6 @@ ul li {
     display: grid;
     grid-template-columns: repeat(20, 5%);
     grid-template-rows: repeat(10, 100px);
-    grid-gap: 2rem 1rem;
 }
 
 .grid-404 b:nth-child(even) {
