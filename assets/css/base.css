@@ -428,10 +428,16 @@ ul li {
 }
 
 .return {
-    padding: 1rem;
+    padding: 0;
     color: #000;
 	font-size: 90%;
 	font-weight: normal;
+	text-align: right;
+}
+
+.return p {
+	padding: 0;
+	margin: 3px;
 }
 
 .return a {
