@@ -138,13 +138,13 @@ body {
 }
 
 .grid li img:hover {
-	/*
-	-moz-transform: scale(1.1);
-	-webkit-transform: scale(1.1);
-	transform: scale(1.1);
-	transition-duration: 1.5s;
-	transition-timing-function: ease;
-	*/
+    /*
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    transition-duration: 1.5s;
+    transition-timing-function: ease;
+    */
     position: fixed;
     pointer-events: none;
     height: auto;
@@ -156,26 +156,8 @@ body {
     top: 50%;
     transform: translate(-50%,-50%);
     z-index: 2;
-}
-
-/* IMAGE HOVER */
-
-.article-image {
-    position: fixed;
-    pointer-events: none;
-    max-height: 100vh;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%,-50%);
-    z-index: 2;
-}
-	
-img.project-image {
-    height: auto;
-    max-height: 100vh;
-    max-width: 800px;
-    width: auto;
-    padding: 0;
+    transition-duration: 1.5s;
+    transition-timing-function: ease;
 }
 
 /* WRITINGS */
