@@ -469,7 +469,13 @@ ul li {
 .grid-404 b:nth-child(even) {
     background-color: #57585c;
     animation-duration: 1s;
-    animation: colorchange 1s infinite alternate-reverse;
+}
+
+.grid-404 b:nth-child(even):hover {
+    background-color: #f4f4f4;
+    -webkit-transition: background-color 1000ms linear;
+    -ms-transition: background-color 1000ms linear;
+    transition: background-color 1000ms linear;
 }
 
 .grid-404 b:nth-child(odd) {
