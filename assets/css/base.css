@@ -413,6 +413,15 @@ ul li {
 		top: -120px;
 		position: absolute;
 	}
+
+    .icon111 {
+        margin: 15px;
+    }
+}
+
+.icon111 {
+    width: 25px;
+    margin: 0 15px;
 }
 
 .secret_animate {
