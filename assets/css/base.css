@@ -432,7 +432,7 @@ ul li {
 
 .return {
     text-align: center;
-    padding: 0 1rem 5rem 1rem;
+    padding: 5rem;
 }
 
 .return a {
@@ -581,12 +581,9 @@ ul li {
 		transform: translateY(-1000px);
 		opacity: 0;
 	}
-	50% {
-		opacity: 1;
-	}
 	100% {
-		-webkit-transform: translateY(0);
-		transform: translateY(0);
+		-webkit-transform: translateY(100%);
+		transform: translateY(100%);
 		opacity: 0;
 	}
 }
@@ -596,12 +593,9 @@ ul li {
 		transform: translateY(-1000px);
 		opacity: 0;
 	}
-	50% {
-		opacity: 1;
-	}
 	100% {
-		-webkit-transform: translateY(0);
-		transform: translateY(0);
+		-webkit-transform: translateY(100%);
+		transform: translateY(100%);
 		opacity: 0;
 	}
 }
