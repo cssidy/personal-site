@@ -462,8 +462,8 @@ ul li {
 }
 
 .grid-404 b {
-    -webkit-animation: slide-in-top 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite backwards;
-    animation: slide-in-top 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite backwards;
+    -webkit-animation: slide-in-top 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1 backwards;
+    animation: slide-in-top 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1 backwards;
 }
 
 .grid-404 b:nth-child(even) {
