@@ -469,6 +469,7 @@ ul li {
 .grid-404 b:nth-child(even) {
     background-color: #57585c;
     animation-duration: 1s;
+    animation: colorchange 1s infinite alternate-reverse;
 }
 
 .grid-404 b:nth-child(odd) {
@@ -647,6 +648,15 @@ ul li {
 	to {
 		opacity: 1;
 	}
+}
+
+@keyframes colorchange {
+    from {
+        background: #57585c;
+    }
+    top {
+        background: #f4f4f4;
+    }
 }
 
 
