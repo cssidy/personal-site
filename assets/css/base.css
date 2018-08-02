@@ -450,8 +450,8 @@ ul li {
     width: 90%;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: 1fr 1fr 2fr 3fr 2fr 1fr 1fr 4fr 1fr;
-    grid-template-rows: 200px 200px 100px 400px 200px 600px 200px 150px 150px 200px 300px 100px 200px;
+    grid-template-columns: repeat(20, 5%);
+    grid-template-rows: 10px 110px 10px 111px 10px 110px 10px 110px 100px 10px 110px 10px 100px 111px;
     grid-gap: 2rem 1rem;
 }
 
