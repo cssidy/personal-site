@@ -437,6 +437,10 @@ ul li {
     padding: 0 1rem 5rem 1rem;
 }
 
+.return a {
+    color: #fff;
+}
+
 .page-404 {
     background: #e34234;
 	/* background: linear-gradient(#e34234, #e34234, #fff, #fff); */
