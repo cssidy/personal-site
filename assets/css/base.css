@@ -430,6 +430,8 @@ ul li {
 .return {
     padding: 1rem;
     color: #000;
+	font-size: 90%;
+	font-weight: normal;
 }
 
 .return a {
@@ -441,7 +443,9 @@ ul li {
 }
 
 .return img {
-    width: 75px;
+    width: 20%;
+    float: left;
+    padding-right: 10px;	
 }
 
 .page-404 {
@@ -647,7 +651,7 @@ ul li {
 
 .grid-404 b:nth-of-type(34) {
     grid-row: 10;
-    grid-column: 1 / span 7;
+    grid-column: 1 / span 9;
 }
 
 @keyframes secretanimate {
