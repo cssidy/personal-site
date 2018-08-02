@@ -658,7 +658,7 @@ ul li {
 	100% {
 		-webkit-transform: translateY(100%);
 		transform: translateY(100%);
-		opacity: 0;
+		opacity: 1;
 	}
 }
 @keyframes slide-in-top {
@@ -670,10 +670,9 @@ ul li {
 	100% {
 		-webkit-transform: translateY(100%);
 		transform: translateY(100%);
-		opacity: 0;
+		opacity: 1;
 	}
 }
-
 
 
 
