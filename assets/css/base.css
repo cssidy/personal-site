@@ -516,8 +516,8 @@ ul li {
 }
 
 .grid-404 b:nth-of-type(11) {
-    grid-row: 7 / span 2;
-    grid-column: 11;
+    grid-row: 5 / span 3;
+    grid-column: 20;
 }
 
 .grid-404 b:nth-of-type(12) {
