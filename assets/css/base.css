@@ -440,6 +440,14 @@ ul li {
     color: #fff;
 }
 
+.return a:hover {
+    color: #000;
+}
+
+.return img {
+    width: 75px;
+}
+
 .page-404 {
     background: #e34234;
 	/* background: linear-gradient(#e34234, #e34234, #fff, #fff); */
