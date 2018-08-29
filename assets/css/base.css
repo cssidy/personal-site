@@ -95,6 +95,12 @@ body {
     padding: 0;
 }
 
+@media(max-width: 450px) {
+	.grid {
+		grid-template-columns: 1fr;
+	}
+}
+
 .grid li {
     list-style: none;
     position: relative;
