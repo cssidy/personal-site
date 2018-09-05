@@ -10,7 +10,7 @@ increased employee communication, collaboration, happiness, and ultimately effic
 become one of the most dreaded office configurations among workers, possibly even less popular than the cubicle.
 
 Open offices _can_ work well for certain job positions. However, in software development I find them to be a
-huge hindrance to the type of work that's expected of me to produce. Despite that, they seem to be all the rage right
+huge hindrance to the type of work that's expected. Despite that, they seem to be all the rage right
 now. Sure, there are phases in software development that require brainstorming and intense socialization, but when that's 
 through we generally all disperse to tackle our individual piece of the code. Open offices are not conducive to concentration 
 and logical problem solving, which is largely a solo task with occasional collaboration from peers when stuck. And because 
@@ -33,20 +33,20 @@ These are all situations that I have encountered in an open office which distrac
 - Co-workers who announce every frustration/victory with a grunt or "Yaaasss!"
 - Co-workers who hum to themselves
 - Co-workers who anxiously click their pens
-- Co-workers who constantly ask questions of fellow devs without doing a basic Google search
+- Co-workers who constantly ask questions of fellow devs without doing a basic Google search first
 - Co-workers who slam their water bottle down every time they use it
 - Co-workers who eat at their desk
 - Co-workers who bring stinky food back to their desk (I have been a culprit of this in the past. I realized 
 this is a disruptive habit while at my first open office job. One afternoon I microwaved a just-add-water Thai noodle 
 bowl and had to smell garlic and onions for the rest of the day. I felt so horrible and guilty! Since, I only eat in 
 the kitchen area, or I'll go outside and find a picnic table or park bench.)
-- Co-workers that have loud, clunking TMJ jaws that choose to eat peanut-butter bagels at their desk
+- Co-workers that have loud, clunking TMJ jaws that eat at their desk
 - Co-workers who slurp, suck, smack and gulp soup for three meals every day at their desk
 - Co-workers who eat loud, crunchy snacks in loud, crinkly containers, like Cheez-Its and Fritos, at their desk all day long
-- Co-workers who leave dirty plates, bowls and mugs for weeks at their desk that attract gnats
+- Co-workers who leave dirty plates, bowls and mugs for days at their desk
 - Co-workers who anxiously shake their legs which rattles and vibrates nearby desks
 - Co-workers who have restless leg syndrome who can't help but shake their legs all day long
-- Co-workers who come in to work sick, hacking and snuffling all day long and risking infecting others
+- Co-workers who come in to work sick, hacking and snuffling all day long and risk infecting others
 - Co-workers who breath heavily through their mouth
 - Co-workers who have loud conversations at their desks on their phone
 - Co-workers who tap along to the music in their headphones (This one puzzles me, isn’t the reason why they're
@@ -54,7 +54,7 @@ wearing headphones to keep their music to themselves? Now they’re going to mak
 while they 'rock out'?)
 - Co-workers who leave their headphones on their desk, loudly blasting, while they are elsewhere
 - Co-workers who do not silence the texting on their phone
-- Co-workers who leave their phone on their desk, un-silenced, and get frequent calls
+- Co-workers who leave their phone on their desk, un-silenced, and get frequent calls while they are elsewhere
 
 
 ## Solutions
@@ -67,10 +67,10 @@ Unfortunately, I have only found a couple reliable solutions to these problems:
 
 The other solutions I've conjured up all require confrontation with the offending co-worker. There's a 
 risk that the co-worker will take your feedback poorly. It requires a careful, tactful approach or else you could
-sour your working relationship with them. I don't have any advice for this as it has not been successful for me. 
+sour your working relationship with them. I don't have any advice for this as it has generally not been successful for me. 
 Additionally, some of these situations just cannot be resolved by a polite request. For example, a co-worker
 with restless leg syndrome who's forced to sit programming for 8 hours a day will probably not be able to 
-stop vibrating your desk with their shaking legs. But, if you can configure your immediate surroundings to not 
+stop their shaking legs. But, if you can configure your immediate surroundings to not 
 absorb the vibrations from their shaking, you can avoid upsetting them by bringing up the subject. Ideally, open
 offices will go out of fashion. But until then, team leaders should be responsible for handling these confrontations 
 in the most adroit way possible. But that requires speaking up, and
