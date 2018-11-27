@@ -5,7 +5,7 @@ date: 2016-08-24
 title: College Graduation
 ---
 
-I earned my B.S. in Web design, Development & Infrastructure last week from Champlain College. Now I'm an official nerd. My first emotions were in this order:
+I earned my B.S. in Web Design, Development & Infrastructure last week from Champlain College. Now I'm an official nerd. My first emotions were in this order:
 
 - shock
 - exhaustion
@@ -27,4 +27,4 @@ What's next? I've decided to take three months off to decompress, pursue persona
 - ~~Get my first Arduino or Raspberry Pi and do something cool with it~~
 - ~~Build a Jekyll blog~~
 
-After this sojourn, I'll have to join a company out there. I can see myself best-suited for a position as a network administrator, web designer, or web developer. Some day I'd like to go on to graduate school. Probably researching distributed systems or computer networking of some sort. But I'm not rushing it. I want to find a place where I can be happy. Where I can get intellectual stimulation and challenge, do cool things with super computers, perform meaningful behind-the-scenes work, and seek solace from my student loans.
+After this sojourn, I'll have to join a company out there. I can see myself best-suited for a position as a network administrator, web designer, or web developer. Some day I'd like to go on to graduate school. Probably researching distributed systems or programming of some sort. But I'm not rushing it. I want to find a place where I can be happy. Where I can get intellectual stimulation and challenge, do cool things with super computers, perform meaningful behind-the-scenes work, and seek solace from my student loans.
