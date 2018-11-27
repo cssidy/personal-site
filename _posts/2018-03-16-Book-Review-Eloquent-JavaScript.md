@@ -5,7 +5,7 @@ date: 2018-03-16
 title: Book Review - Eloquent JavaScript
 ---
 
-I recently finished [Eloquent JavaScript](https://eloquentjavascript.net/) by Marijn Haverbeke. Eloquent JavaScript is considered one of the educational pillars of learning the JavaScript language, and I've heard great reviews of it from fellow programmers. So I thought it was worth trying.
+I recently finished [Eloquent JavaScript](https://eloquentjavascript.net/) by Marijn Haverbeke. Eloquent JavaScript is considered one of the educational pillars of JavaScript, and I've heard great reviews of it from fellow programmers. So I thought it was worth trying.
 
 ## The Book
 
