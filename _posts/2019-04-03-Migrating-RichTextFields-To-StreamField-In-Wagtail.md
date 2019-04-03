@@ -13,7 +13,7 @@ If you're struggling too, perhaps this tutorial will help you on your mission.
 
 ## Tutorial
 
-:small_red_triangle: I am using Wagtail version 2.1.3.
+:small_red_triangle: I am using Wagtail version 2.1.3 and Django 1.11.
 
 ### Models
 
