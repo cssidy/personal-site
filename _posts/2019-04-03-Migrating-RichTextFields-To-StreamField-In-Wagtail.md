@@ -2,10 +2,12 @@
 layout: post
 comments: true
 date: 2019-04-03
+tags: django, python, wagtail, databases
+seo: wagtail, wagtail cms, richtextfield, streamfield, richtextfields, streamfields, migrating, migrate, convert, converting, richtextblock, richtextblocks, django, python, py, makemigrations
 title: Migrating RichTextFields to StreamField in Wagtail
 ---
 
-I recently converted RichTextFields to a StreamFields in a Django blog built with Wagtail CMS. 
+I recently converted RichTextFields to RichTextBlocks inside StreamFields in a Django blog built with Wagtail CMS. 
 I wanted to make this change so that I could have more complex content within blog posts. The rich text editor is a nice quick solution to get a blog up and running, but it is also limiting. You can't have links over images, Google Maps, videos with captions, or multi-column layouts. Luckily, that's what StreamFields were designed for. Additionally, I wanted to preserve my already published posts and be able to improve upon them. To do that, I needed to convert them all to StreamFields.
 
 I found the Wagtail documentation to be skimpy, which turned this task into a much longer struggle than it should have been.
