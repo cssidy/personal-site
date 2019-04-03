@@ -11,7 +11,7 @@ I wanted to make this change so that I could have more complex content within bl
 I found the Wagtail documentation to be skimpy, which turned this task into a much longer struggle than it should have been.
 If you're struggling too, perhaps this tutorial will help you on your mission.
 
-## Tutorial
+## Migrating RichTextFields to StreamField in Wagtail
 
 ### Requirements
 
