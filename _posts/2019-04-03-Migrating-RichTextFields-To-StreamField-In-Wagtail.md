@@ -13,7 +13,9 @@ If you're struggling too, perhaps this tutorial will help you on your mission.
 
 ## Tutorial
 
-:small_red_triangle: I am using Wagtail version 2.1.3 and Django 1.11.
+### Requirements
+
+I am using Wagtail version 2.1.3 and Django 1.11.
 
 ### Models
 
@@ -158,4 +160,4 @@ Note: you can also check out [Wagtail's official documentation](https://docs.wag
 
 Finally, we're going to migrate. Back in your terminal, enter ```./manage.py migrate```. You'll then want to restart the Django server. When you return to your Wagtail admin panel you'll notice that every previously published post's RichTextField has been converted to a StreamField RichTextBlock. Tada!
 
-![Wagtail RichTextBlock inside a StreamField panel](../assets/images/blog/wagtail_richtextblock.png)
+![Wagtail RichTextBlock inside a StreamField panel](../assets/images/blog/richtextblock.png)
