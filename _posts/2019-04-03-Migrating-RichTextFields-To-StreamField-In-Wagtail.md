@@ -13,7 +13,7 @@ If you're struggling too, perhaps this tutorial will help you on your mission.
 
 ### Your Models
 
-To start, you should have a models.py that looks something like this:
+To start, you should have a ```models.py``` that looks something like this:
 
 ```python
 
@@ -32,3 +32,5 @@ class BlogSimplePostPage(Page):
       ]
 
 ```
+
+Or first step is to convert this 
