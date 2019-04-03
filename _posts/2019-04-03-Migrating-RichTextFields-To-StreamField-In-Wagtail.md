@@ -17,4 +17,18 @@ To start, you should have a models.py that looks something like this:
 
 ```python
 
+from django.db import models
+from wagtail.core import blocks
+from wagtail.core.fields import StreamField, RichTextField
+rom wagtail.admin.edit_handlers import FieldPanel, StreamFieldPanel
+
+
+class BlogSimplePostPage(Page):
+  body = RichTextField()
+
+  content_panels = Page.content_panels + [
+          FieldPanel('body'),e')
+          ),
+      ]
+
 ```
