@@ -8,7 +8,7 @@ title: Making Custom StreamFields in Wagtail
 ---
 
 Have you ever needed a specific content element in your Wagtail blog post builder? StreamFields provide us more
-options than basic RichTextFields. StreamFields come out of the box with a handful or useful StreamBlocks, such as 
+options than basic RichTextFields. StreamFields come out of the box with a handful of useful StreamBlocks, such as 
 ListBlock, EmailBlock, TableBlock and ImageChooserBlock.
 However, we have to build the more unique StreamBlocks ourselves. Here is a tutorial on 
 how to make a useful image within a link custom StreamField.
