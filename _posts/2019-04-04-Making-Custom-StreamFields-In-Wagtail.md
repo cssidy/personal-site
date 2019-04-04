@@ -117,7 +117,6 @@ And, following the path to completion, we need to create a file called ```core/t
 ```html
 
 <a href="{{ self.link }}" target="_blank">
-  <!-- note, these "raw" tags are to escape what Github (my site host) thinks is Liquid templating, but is actually Django templating", do not include them in your source code -->
   {% raw %}
   {% image self.image %}
   {% endraw %}
