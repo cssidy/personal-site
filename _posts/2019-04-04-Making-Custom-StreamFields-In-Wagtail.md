@@ -114,9 +114,10 @@ class ImageWithLink(blocks.StructBlock):
 And, following the path to completion, we need to create a file called ```core/templates/core/blocks/imagewithlink.html```. This will be the template for that content element. It could look something like this, this is where you get creative:
 
 
-```python
+```html
 
 <a href="{{ self.link }}" target="_blank">
+  <!-- note, these "raw" tags are to escape what Github (my site host) thinks is Liquid templating, but is actually Django templating", do not include them in your source code -->
   {% raw %}
   {% image self.image %}
   {% endraw %}
