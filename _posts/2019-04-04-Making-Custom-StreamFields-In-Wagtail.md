@@ -117,7 +117,9 @@ And, following the path to completion, we need to create a file called ```core/t
 ```python
 
 <a href="{{ self.link }}" target="_blank">
+  {% raw %}
   {% image self.image %}
+  {% endraw %}
 </a>
 
 ```
