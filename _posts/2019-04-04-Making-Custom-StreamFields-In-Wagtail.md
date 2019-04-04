@@ -21,7 +21,7 @@ I am using Wagtail version 2.1.3 and Django 1.11.
 
 You want to create a StreamBlock for an image that has a hyperlink on it. For example, the HTML equivalent would look like:
 
-```python
+```html
 
 <a href="https://www.google.com"><img src="/assets/images/banner.jpg" /></a>
 
