@@ -116,7 +116,7 @@ class ImageWithLink(blocks.StructBlock):
 And, following the path to completion, we need to create a file at ```core/templates/core/blocks``` called ```imagewithlink.html```. This
 will be the template for that content element. It could look something like this, this is where you get creative:
 
-```python
+```html
 
 <a href="{{ self.link }}" target="_blank">
   {% image self.image %}
