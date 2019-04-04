@@ -118,8 +118,6 @@ will be the template for that content element. It could look something like this
 
 ```python
 
-{% load wagtailimages_tags %}
-
 <a href="{{ self.link }}" target="_blank">
   {% image self.image %}
 </a>
