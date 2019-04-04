@@ -21,7 +21,7 @@ I am using Wagtail version 2.1.3 and Django 1.11.
 
 You want to create a StreamBlock for an image that has a hyperlink on it. For example, the HTML equivalent would look like:
 
-```
+```python
 
 <a href="https://www.google.com"><img src="/assets/images/banner.jpg" /></a>
 
@@ -114,7 +114,8 @@ class ImageWithLink(blocks.StructBlock):
 And, following the path to completion, we need to create a file at ```core/templates/core/blocks``` called ```imagewithlink.html```. This
 will be the template for that content element. It could look something like this, this is where you get creative:
 
-```
+
+```python
 
 <a href="{{ self.link }}" target="_blank">
   {% image self.image %}
