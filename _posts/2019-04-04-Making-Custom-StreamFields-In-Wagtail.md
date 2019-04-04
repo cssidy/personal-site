@@ -2,8 +2,6 @@
 layout: post
 comments: true
 date: 2019-04-04
-tags: django, python, wagtail, databases
-seo: wagtail, wagtail cms, custom, make, build, richtextfield, streamfield, richtextfields, streamfields, richtextblock, richtextblocks, django, python, py
 title: Making Custom StreamFields in Wagtail
 ---
 
