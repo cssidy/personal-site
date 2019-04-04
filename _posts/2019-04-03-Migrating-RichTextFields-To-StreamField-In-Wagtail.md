@@ -2,8 +2,6 @@
 layout: post
 comments: true
 date: 2019-04-03
-tags: django, python, wagtail, databases
-seo: wagtail, wagtail cms, richtextfield, streamfield, richtextfields, streamfields, migrating, migrate, convert, converting, richtextblock, richtextblocks, django, python, py, makemigrations
 title: Migrating RichTextFields to StreamField in Wagtail
 ---
 
