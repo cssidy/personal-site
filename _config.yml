@@ -1,4 +1,0 @@
-auto: true
-markdown: kramdown
-permalink: /:year/:month/:day/:title
-google_analytics: UA-115359298-1
