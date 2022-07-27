@@ -1,0 +1,185 @@
+:root {
+    --highlight-color: rgb(244, 196, 48);
+    --transparent-color: rgb(244, 196, 48, 0.1);
+}
+
+body {
+    padding: 1em;
+    font-family: utile-display, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+a {
+    color: var(--highlight-color);
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: var(--transparent-color);
+    text-decoration: underline;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+header h1 {
+    margin-top: 0;
+    font-size: 4.2em;
+    line-height: 1;
+}
+
+nav a {
+    color: black;
+    padding: 0.875em;
+    font-weight: 500;
+    font-size: 1.2em;
+}
+
+nav a:hover {
+    background-color: initial;
+    text-decoration: underline;
+}
+
+.project-index {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-column-gap: 1em;
+}
+
+.image-placeholder {
+    position: sticky;
+    margin-top: 0;
+    height: 600px;
+    width: 100%;
+    background-color: var(--highlight-color);
+    display: flex;
+    flex-direction: column-reverse;
+    background-size: cover;
+    background-position: center;
+}
+
+.description-placeholder, .url-placeholder {
+    display: block;
+    color: black;
+}
+
+.url-placeholder a {
+    padding: 0 1em 1em 1em;
+}
+
+.url-placeholder:hover {
+    text-decoration: underline;
+    background-color: initial;
+}
+
+.project-list ul {
+    margin: 0;
+    padding: 0;
+}
+
+.project-list ul li span:first-of-type {
+    flex: 50%;
+}
+
+.project-list ul li span:nth-of-type(2) {
+    flex: 25%;
+}
+
+.project-list ul li span:nth-of-type(3) {
+    flex: 25%;
+    text-align: right;
+}
+
+.project-list ul li {
+    display: flex;
+    flex: 1;
+    border-top: 1px solid black;
+    padding: 1em;
+    list-style: none;
+    overflow-wrap: break-word;
+    hyphens: manual;
+    cursor: pointer;
+}
+
+.project-list ul li:hover {
+    background-color: var(--transparent-color);
+}
+
+.info {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.info section {
+    grid-row: 1 / span 3;
+    grid-column: 1 / span 5;
+    z-index: 2;
+}
+
+.info section p {
+    font-size: 2.3em;
+    line-height: 1.1;
+}
+
+.info p:nth-of-type(3) {
+    font-size: initial;
+    line-height: initial;
+    text-indent: initial;
+}
+
+.profile-photo {
+    grid-row: 3 / span 5;
+    grid-column: 4 / span 5;
+    z-index: 1;
+    background-color: var(--highlight-color);
+    background-image: url("./assets/profile-1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@media (max-width: 812px) {
+    header {
+        flex-direction: column;
+        padding-bottom: 1em;
+    }
+    header h1 {
+        margin-top: 0;
+        padding-top: 0;
+    }
+    nav {
+        text-align: right;
+    }
+    header nav a {
+        margin-left: 0;
+        padding-left: 0;
+    }
+    .project-index {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-row-gap: 1em;
+    }
+    .project-list ul {
+        height: 280px;
+        overflow-y: scroll;
+        font-size: 14px;
+    }
+    .image-placeholder {
+        height: 200px;
+        position: initial;
+    }
+    .info section p {
+        font-size: 2em;
+        line-height: 1.1;
+        text-indent: 1em;
+    }
+    .profile-photo {
+        grid-row: 3 / span 2;
+    }
+}
