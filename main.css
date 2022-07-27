@@ -49,30 +49,36 @@ nav a:hover {
     grid-column-gap: 1em;
 }
 
-.image-placeholder {
+.project-preview {
     position: sticky;
-    margin-top: 0;
-    height: 600px;
+    top: 10%;
+    height: 540px;
     width: 100%;
-    background-color: var(--highlight-color);
     display: flex;
-    flex-direction: column-reverse;
-    background-size: cover;
-    background-position: center;
+    flex-direction: column;
+    justify-content: start;
+
 }
 
-.description-placeholder, .url-placeholder {
-    display: block;
-    color: black;
+.image-placeholder {
+    background-size: contain;
+    background-position: top center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
 }
 
-.url-placeholder a {
-    padding: 0 1em 1em 1em;
+.project-details {
+    text-align: center;
 }
 
-.url-placeholder:hover {
-    text-decoration: underline;
-    background-color: initial;
+.project-details p {
+    margin: 0;
+    padding: 0;
+}
+
+.url-placeholder {
+    font-size: 20px;
 }
 
 .project-list ul {
@@ -166,13 +172,15 @@ nav a:hover {
         grid-row-gap: 1em;
     }
     .project-list ul {
-        height: 280px;
-        overflow-y: scroll;
+        /*height: 280px;*/
+        /*overflow-y: scroll;*/
         font-size: 14px;
     }
+    .project-preview {
+    }
     .image-placeholder {
-        height: 200px;
         position: initial;
+        background-position: center;
     }
     .info section p {
         font-size: 2em;
