@@ -11,7 +11,12 @@ projectList.forEach(function (project) {
 
 function changeProjectData() {
     // console.log(this.id);
-    imagePlaceholder.style.backgroundImage = `url('./assets/projects/${this.id}.gif')`;
+
+    if (this.dataset.type === 'Digital Ad') {
+        imagePlaceholder.style.backgroundImage = `url('./assets/projects/${this.id}.gif')`;
+    } else {
+        imagePlaceholder.style.backgroundImage = `url('./assets/projects/${this.id}.jpg')`;
+    }
     projectType.textContent = this.dataset.type;
     descriptionPlaceholder.textContent = this.dataset.description;
 
