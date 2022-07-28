@@ -177,6 +177,11 @@ nav a:hover {
         font-size: 14px;
     }
     .project-preview {
+        background-color: white;
+        padding: 1em 0;
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+        margin-bottom: -17px;
     }
     .image-placeholder {
         position: initial;
