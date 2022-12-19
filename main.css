@@ -45,40 +45,8 @@ nav a:hover {
 
 .project-index {
     display: grid;
-    grid-template-columns: 1fr 2fr;
+    grid-template-columns: 1fr;
     grid-column-gap: 1em;
-}
-
-.project-preview {
-    position: sticky;
-    top: 10%;
-    height: 540px;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: start;
-
-}
-
-.image-placeholder {
-    background-size: contain;
-    background-position: top center;
-    background-repeat: no-repeat;
-    height: 100%;
-    width: 100%;
-}
-
-.project-details {
-    text-align: center;
-}
-
-.project-details p {
-    margin: 0;
-    padding: 0;
-}
-
-.url-placeholder {
-    font-size: 20px;
 }
 
 .project-list ul {
@@ -86,20 +54,20 @@ nav a:hover {
     padding: 0;
 }
 
-.project-list ul li span:first-of-type {
+.project-list ul a span:first-of-type {
     flex: 50%;
 }
 
-.project-list ul li span:nth-of-type(2) {
+.project-list ul a span:nth-of-type(2) {
     flex: 25%;
 }
 
-.project-list ul li span:nth-of-type(3) {
+.project-list ul a span:nth-of-type(3) {
     flex: 25%;
     text-align: right;
 }
 
-.project-list ul li {
+.project-list ul a {
     display: flex;
     flex: 1;
     border-top: 1px solid black;
@@ -108,9 +76,11 @@ nav a:hover {
     overflow-wrap: break-word;
     hyphens: manual;
     cursor: pointer;
+    text-decoration: none;
+    color: black;
 }
 
-.project-list ul li:hover {
+.project-list ul a:hover {
     background-color: var(--transparent-color);
 }
 
@@ -133,15 +103,15 @@ nav a:hover {
     line-height: 1.1;
 }
 
-.info p:nth-of-type(3) {
+.info p:nth-of-type(2) {
     font-size: initial;
     line-height: initial;
     text-indent: initial;
 }
 
 .profile-photo {
-    grid-row: 3 / span 5;
-    grid-column: 4 / span 5;
+    grid-row: 2 / 6;
+    grid-column: 4 / 6;
     z-index: 1;
     background-color: var(--highlight-color);
     background-image: url("./assets/profile-1.jpg");
@@ -193,7 +163,7 @@ nav a:hover {
         text-indent: 1em;
     }
     .profile-photo {
-        grid-column: 1 / span 5;
-        grid-row: 4 / span 5;
+        grid-column: 1 / 6;
+        grid-row: 4 / 5;
     }
 }
