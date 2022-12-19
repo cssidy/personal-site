@@ -164,6 +164,6 @@ nav a:hover {
     }
     .profile-photo {
         grid-column: 1 / 6;
-        grid-row: 4 / 5;
+        grid-row: 4 / 6;
     }
 }
